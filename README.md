@@ -61,6 +61,18 @@ Generated from the n8n export: every node and connection as built.
 
 ![Workflow map](docs/screenshots/01-workflow-map.png)
 
+## Workflows in n8n
+
+Each workflow carries notes on the canvas that explain every step.
+
+**1 · AI triage with a knowledge base** (classify, draft, route by priority)
+
+![AI triage workflow](docs/screenshots/02-workflow-triage.png)
+
+**2 · Knowledge base tool** (returns only the rules relevant to the e-mail)
+
+![Knowledge base tool workflow](docs/screenshots/03-workflow-knowledge-base-tool.png)
+
 ## Get the full workflow
 
 The workflow files and prompts are not published. To see the system running on a call, or to get it set up with your school's rules and mailbox:
